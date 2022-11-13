@@ -1,11 +1,4 @@
 Shell00 85%
-ex00 Z				: OK 
-ex01 testShell00	: OK
-ex02 exo2.tar		: OK
-ex03 SSH me!		: OK
-ex04 midLS			: OK
-ex05 GIT commit		: OK
-ex06 gitignore		: OK
-ex07 diff			: OK
-ex08 clean			: OK
-ex09 ft_magic		: Nothing turned in
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: OK | ex09: Nothing turned in
+
+
